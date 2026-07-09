@@ -1,0 +1,33 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging and coverage
+build/
+dist/
+*.egg-info/
+.coverage
+htmlcov/
+
+# Generated experiment outputs
+spr_output/
+spr_BT_inspection/
+spr_M2_microchannel/
+spr_M2_microchannel_obstacles/
+spr_M2_microchannel_sinusoidal/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+*.swp

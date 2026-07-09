@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "Particle Methods: Active Biological Fluid Dynamics"
+version: 1.0.0
+authors:
+  - family-names: Forni
+    given-names: "Pietro Bernardo Maria"
+    affiliation: "Università della Svizzera italiana"
+license: MIT
+preferred-citation:
+  type: report
+  title: "Particle Methods: Project - Active Biological Fluid Dynamics"
+  authors:
+    - family-names: Forni
+      given-names: "Pietro Bernardo Maria"
+  year: 2026
